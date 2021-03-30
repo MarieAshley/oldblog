@@ -19,8 +19,7 @@ The point of this blog article is to instill advice regarding matrices in Python
 Here is a refactored and print() heavy sample we worked with:
 
 ```python
-print(""Guassian Elimination with Partial Pivot
-"")
+print(""Guassian Elimination with Partial Pivot"")
 #Tested Python 3
 
 import numpy as np
@@ -33,15 +32,12 @@ A = [[ 1,  2,  0],
 #End of parameters to change.
 
 def print_matrix(A):
-    return '
-'.join([''.join(['{:8}'.format(i) for i in r]) for r in A])
+    return ''.join([''.join(['{:8}'.format(i) for i in r]) for r in A])
 
 n = len(A)
 npivot = 0
 
-print(""Original matrix:
-{0}
-"".format(print_matrix(A)))
+print(""Original matrix: {0}"".format(print_matrix(A)))
 
 #Numpy sanity check
 detA = np.linalg.det(A)
@@ -59,28 +55,22 @@ for k in range(0, n):
         A[k]=A[rowmax]
         A[rowmax]=store
 
-    print(""after row switch:
-{0}"".format(print_matrix(A)))
+    print(""after row switch: {0}"".format(print_matrix(A)))
     
     for i in range(k+1, n): 
         factor = A[i][k]/A[k][k] 
         for j in range(k, n): 
             A[i][j] = A[i][j] - factor*A[k][j]
 
-    print(""after eliminating:
-{0}"".format(print_matrix(A)), end=""
-
-"")
+    print(""after eliminating: {0}"".format(print_matrix(A)), end="""")
     
-print(""upper triangluar matrix:
-{0}"".format(print_matrix(A)))
+print(""upper triangluar matrix: {0}"".format(print_matrix(A)))
 
 deter = 1
 for i in range(0, n): 
     deter = deter * A[i][i]
 deter = deter * (-1)**npivot
 
-print(""
-our determinant: "", deter)
+print(""our determinant: "", deter)
 print(""numpy's determinant: "", detA)
 ```
