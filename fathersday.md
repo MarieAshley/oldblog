@@ -6,9 +6,9 @@ A long time ago, my Dad saw the contrast between my life of ease and his reality
 ---
 
 ## The Water Tower
-The local water tower is where it all started. Dad used to take me and my short chubby legs up the hill to the water tower behind our house. Three of my strides equaled one of his and I could not get enough air! Dad made it look so easy, his thin body seemingly bounced up the hill with little effort. The round trip hike was about a mile and truly not that difficult, but I hated hiking up to that tower and I thought it was strenuous and I was truth be told afraid of the tower.
+The local water tower is where it all started. Dad used to take me and my short chubby five year old legs up the hill to the water tower behind our house. Three of my strides equaled one of his and I could not get enough air! Dad made it look so easy, his thin body seemingly bounced up the hill with little effort. The round trip hike was about a mile and truly not that difficult, but I hated hiking up to that tower and I thought it was strenuous and I was truth be told afraid of the tower.
 
-###### I convinced myself that the gates guarding the tower protected citizens from velociraptors.
+#### I thought that the gates guarding the tower protected citizens from velociraptors.
 
 There were fun moments, however. This was the first spot my father ever took me stargazing. The park lights polluted the sky too much, so we couldn't see anything other than the moon and alien ships, I mean airplanes.
 
@@ -19,11 +19,11 @@ Now, I visit the water tower whenever I visit home because it is my sanctuary. I
 ## Yosemite Falls
 Tourists, hikers, and rock climbers come to Yosemite to view and to be awe-inspired by the massive and unforgiving, once magma, glacier-sculpted granite alive by thunderous falls and softened by dewy meadows.
 
-Dad took Mom, Britt, and me to Yosemite during our summer vacation. While Mom watched over her nutty kids, Dad would venture off to do several day hikes, including Half Dome. He also risked taking me up the falls because he wanted to show me that I could accomplish something, if only it was a hike to the top of Yosemite Falls. Note that at this point in my life I was a straight D fourth grader with needless to say few accomplishments. I was happy to spend some father-daughter time.
+Dad took Mom, Britt, and me to Yosemite during our summer vacation. While Mom watched over her nutty kids, Dad would venture off to do several day hikes, including Half Dome. He also risked taking me up the falls because he wanted to show me that I could accomplish something, if only it was a hike to the top of Yosemite Falls.
 
 We reached the falls easily and took a break to admire the accomplishment and the view. 
 
-###### _"Do not walk over to look at the falls. That is how people die."_
+#### _"Do not walk over to look at the falls. That is how people die."_
 
 A few forgetful moments later, I walked over in aim to see what the top of a waterfall looked like. I almost got to the edge when I heard my dad scream, ""ASHLEY!"" Fearing the wrath of my dad, but not for my life as I failed to comprehend the gravity of the situation, I ran back to him. I nearly scared him to death.
 
@@ -34,23 +34,19 @@ Despite my near death experience, Dad was determined that I would not become com
 
 I vividly remember our hotel beds before each camping trip. My Dad's blue pack would lay on one, with the tent, food, gear, poncho, flashlight, toothpaste and toothbrush, water filter, clothing, knives, bear can, sleeping bag, and maps spread around. 
 
-###### He would meticulously pack his wireframe with the tent at the bottom, proceeded by clothes, and resting on top all equipment we would need during a hike ordered by the likelihood that we would need a particular item. 
+#### He would meticulously pack his wireframe with the tent at the bottom, proceeded by clothes, and resting on top all equipment we would need during a hike ordered by the likelihood that we would need a particular item. 
 
-On the other bed was my green wireframe. At first, I attempted to shove everything into my pack in no order, as lazy children would, and so my Dad taught me the importance of thoughtful packing. Eventually, I was allowed to pack my own pack. 
+On the other bed was my green wireframe. At first, I attempted to shove everything into my pack in no order, as lazy children would, and so my Dad taught me the importance of thoughtful packing.
 
-We strolled 10 miles until our final decent into Thousand Island Lakes. My legs increasingly tired. I hated going uphill but learned then that going downhill was much worse for aching feet.
+We strolled 10 miles until our final decent into Thousand Island Lakes, when I learned then that going downhill hurt more than going uphill.
 
 I remember looking down into Thousand Island Lakes and being blown away by the beauty. I had seen marvelous Yosemite and Sequoia. However, this kingdom was different because it was beautiful and it was away.
 
-I was exhausted after hiking 10 miles and requested that we camp on the first beach we found. My Dad did not want to be so close to the main trail and so we painfully walked another mile when Dad happily picked out a camping spot by a glacier. 
-
-I immediately set to work. I started carving a slide out of the glacier (it wasn't very long) while Dad rested. Slowly, I realized that I was becoming rather lumpy. Mosquitos were everywhere and decided to feast on me, the main course. I ran away screaming and looked over my shoulder at an angry hoard of big greedy-eyed mosquitos. 
+Dad happily picked out a camping spot by a glacier. I immediately set to work. I started carving a slide out of the glacier (it wasn't very long) while Dad rested. Slowly, I realized that I was becoming rather lumpy. Mosquitos were everywhere and decided to feast on me, the main course. I ran away screaming and looked over my shoulder at an angry hoard of big greedy-eyed mosquitos. 
 
 After screaming and making a lot of noise running away, Dad convinced me to help him pitch the tent and make dinner. We brought stove tops, propane, coffee, hot chocolate, and those horrible little backpacker camping meals. I was too hungry to refuse. 
 
-I went to bed, but not before attacking a mosquito that had recently fed. Disgusting.
-
-The next morning felt like a hangover, not that I knew what one felt like back then. I was so cold, tired, grumpy, and hungry. I just wanted to go home. I started to get a bit of altitude sickness too.
+The next morning felt like a hangover, not that I knew what one felt like back then.
 
 On our hike back I remember mostly talking to my Dad about mosquitos. He told me useful bits of information like don't drink still water and consuming pink snow is not a fun way to die.
 
@@ -87,19 +83,19 @@ We spent a rest day in Tuolumne. We sent my mom a pack of dirty clothes and ate 
 
 Donohue pass is an 11,000 foot pass, sitting about 12 miles from Tuolumne Meadows Camp ground. The pass itself climbs 2,000 feet.
 
-""Where did you come in from?"" They asked.
+"Where did you come in from?" They asked.
+ 
+"From the valley. We're headed up to the pass tomorrow. How is it up there?"
 
-""From the valley. We're headed up to the pass tomorrow. How is it up there?""
+"It's difficult." They sized my narrow frame and remarked, 
 
-""It's difficult."" They sized my narrow frame and remarked, 
-
-###### ""She won't make it.""
+#### "She won't make it."
 
 My eyes snapped up and they suffered a steely glare.
 
 My father later told me, over too many Baileys in Aspen, that his favorite memory of me is when I glared at the two backpackers and the hike that followed. To him, my glare screamed, ""F**k you, man.""
 
-If the beef jerky and endless supply of sugar was not enough fuel, that comment certainly was. We blazed through the meadow, I was too preoccupied and fiery to notice the beauty. Near the top of the pass, I had calmed down enough to notice a gorgeous lake and a strange man. I remember asking my dad what was wrong with him. He pretended to smoke a joint and said, ""dope"". I had no clue what that meant.
+If the beef jerky and endless supply of sugar was not enough fuel, that comment certainly was. We blazed through the meadow, I was too preoccupied and fiery to notice the beauty. Near the top of the pass, I had calmed down enough to notice a gorgeous lake and a strange man. I remember asking my dad what was wrong with him. He pretended to smoke a joint and said, "dope". I had no clue what that meant.
 
 We got to the top of the pass, and I proved the father and son wrong. More importantly, I proved to myself that I could climb difficult passes.
 
@@ -114,7 +110,7 @@ We got to Mammoth and had another Yodler burger that tasted significantly better
 ---
 
 ## Duck Pass
-My sister and I are about six years apart. After several years of torture in the Sierras; Dad decided to extend the love to my sister who was now old enough. Dad was trying to ease her into hiking, so the trip was shorter than what we were used to. She could have handled more, I call her ""Little Terror"" among other things because she's insane.
+My sister and I are about six years apart. After several years of torture in the Sierras; Dad decided to extend the love to my sister who was now strong enough. Dad was trying to ease her into hiking, so the trip was shorter than what we were used to. She could have handled more, I call her "Little Terror" among other things because she's insane.
 
 Little is athletically strong, mentally strong, stubborn, and a natural leader in various facets (she has been captain in sports teams, lead a 200 person guild in a popular video game, and now is an officer in the Navy). She is awesome. 
 
@@ -125,7 +121,7 @@ We hiked along the Duck Pass Trail. I do not remember much of the short hike, ot
 ## Mount Whitney
 It was the summer before Softmore year of high school. The cross country team was gearing up for high altitude training at Mammoth and was to meet Deena Kastor. My Dad was preparing me for another adventure. 
 
-Mount Whitney was one of those things where Dad said, ""We're hiking Mount Whitney this summer."" The mountain was not on my bucket list, but I didn't have much of a choice. 
+Mount Whitney was one of those things where Dad said, "We're hiking Mount Whitney this summer." The mountain was not on my bucket list, but I didn't have much of a choice. 
 
 Mount Whitney is the tallest mountain in the contiguous United States, sitting at 14,505 feet. Mount Whitney is easily seen from the 395, the highway Southern Californians take en route to Mammoth. However, tourists drive by the giant as from the highway perspective Mount Whitney blends in with the other dramatic faces in my Sierra Nevada playground.
 
@@ -141,7 +137,7 @@ We stayed at the Dow Villa Motel, I would rather camp on the cold hard ground in
 
 We woke before 3 am; I was tired, cold, hungry, but excited. We hiked by moonlight at first. I felt like I was back, back where I belonged, as my feet stepped onto the trail at Whitney Portal. We immediately hit switchbacks and I reveled in the feeling of slowly climbing, savored the smell of the fresh morning air, and listened to our footsteps and to the slowly awakening mountain. I was never afraid because I was with my dad. Not far into the hike, during a short break, my Dad said to me, 
 
-###### ""I wanted to prove to you that you can do anything you set your mind to.""
+#### "I wanted to prove to you that you can do anything you set your mind to."
 
 We saw a few backpackers who were starting or finishing the John Muir Trail. We even saw one couple hiking the John Muir Trail as part of their honeymoon.
 
@@ -149,7 +145,7 @@ We ascended to what I felt was the famous vertical meadow. Plantlife laced a ste
 
 We rested a few hours before starting the 99 switchbacks.
 
-My legs were feeling slightly more springy due to the long break, I opted to sing ""99 bottles of beer on the wall"", which irked various other hikers.
+My legs were feeling slightly more springy due to the long break, I opted to sing "99 bottles of beer on the wall", which irked various other hikers.
 
 We arrived at the infamous Whitney windows. The windows were a portion of the trail with steep several hundred foot drops on either side. The trails were narrow enough that if you tumbled, there was a good chance of a murderous free fall. A few careless young adults skirted along the edge of one of windows to have their photo taken. My dad made me promise that I would never be that stupid. No problem.
 
@@ -161,7 +157,7 @@ Our climb back down to base camp was tricky. We picked our way past the windows,
 
 Dad was right, the next morning was rough and sleeping below 10,000 feet is the preferable option. Fortunately, the hike down was easy, minus the battering of our feet and legs from the constant descent.
 
-Back in Lone Pine, Dad bought me a purple shirt that said, ""I climbed Mount Whitney.""
+Back in Lone Pine, Dad bought me a purple shirt that said, "I climbed Mount Whitney."
 
 I have a short bucket list now; one of those items is to hike the John Muir Trail and summit Mount Whitney with my sister.
 
@@ -174,15 +170,15 @@ We set out from Mammoth Lakes in good health and spirit. Here is one of our tent
 
 That night we slept under tree cover. Little shook me in the middle of the night.
 
-###### Little panicked, ""Ashy! There's a bear!""  
+#### Little panicked, "Ashy! There's a bear!"  
 
-I whisper-yelled, ""Dad wake up! Bear!""
+I whisper-yelled, "Dad wake up! Bear!"
 
-Dad said unphased, ""There's no bear. Go back to sleep.""
+Dad said unphased, "There's no bear. Go back to sleep."
 
-Little found it hard to sleep and continued to say, ""I really think there's a bear."" 
+Little found it hard to sleep and continued to say, "I really think there's a bear." 
 
-Dad said to me the next morning, chuckling a little, ""Don't tell your sister, I couldn't find the bear can at first. She was right, there was a bear. He whacked the can 200 yards downstream. The thing was strong!"" Years later, over dinner, she would learn the truth. 
+Dad said to me the next morning, chuckling a little, "Don't tell your sister, I couldn't find the bear can at first. She was right, there was a bear. He whacked the can 200 yards downstream. The thing was strong!" Years later, over dinner, she would learn the truth. 
 
 We continued our journey, entered Merced Lake High Sierra Camp and rested a night.
 
@@ -190,9 +186,9 @@ The next morning, we climbed from Merced Lake to Vogelsang, a very strenuous 8-m
 
 After the ascent, we reached an alpine meadow, a short and merciful reprieve. Streams slowly split and reconvene, to nourish a serene high altitude meadow that is embraced by granite domes.     
 
-Near Vogelsang, we encountered a professor from my college. We exchanged a few words; he mentioned it was his first time in the Sierras and he was fascinated by the granite. I enthused my fortune of backpacking once a year. Then, I stupidly remarked, ""The geography is really interesting.""
+Near Vogelsang, we encountered a professor from my college. We exchanged a few words; he mentioned it was his first time in the Sierras and he was fascinated by the granite. I enthused my fortune of backpacking once a year. Then, I remarked, "The geography is really interesting."
 
-He coldly studied me, ""Geology, not geography.""
+He coldly studied me, "Geology, not geography."
 
 Dad rolled his eyes. Privately he reminded that what matters is that I was out here, accomplishing feats, and more importantly appreciating nature.
 
@@ -209,21 +205,15 @@ We caught a bus back to Mammoth, which drove by Mono Lake. I was secretly glad w
 ## Mammoth
 I was 25 and had just started a new job in Southern California. My sister was back from college and on her summer vacation. The moment was ripe for another backpacking trip, around Mammoth Lakes.
 
-I left work late one July afternoon to drive to Mammoth Lakes. For the first time, I was driving alone. I blasted the music, rolled down the windows, and let lose. I sped through knolls by Joshua Tree, so that car felt like a roller coaster. I reveled in the long overdue sensation of the hot desert on my right and the dramatic Sierra Nevadas scenery to my left. Day turned to night; the moon was bright and large but partially hidden in-between wispy clouds. White, gray, purple, and black swam and billowed, painting a scene of a western, rugged, yet beautiful night. 
-
-Little and Dad enthusiastically hugged me when I arrived. Dad treated me to a few drinks and Little to a few sodas at the bar. We spent the night preparing for our trip and amused that Dad, who always packs so light, was stuffing a bottle of wine into his blue wireframe.
+Little and Dad enthusiastically hugged me when I met them the night before the hike. Dad treated me to a few drinks and Little to a few sodas at the bar. We spent the night preparing for our trip and amused that Dad, who always packs so light, was stuffing a bottle of wine into his blue wireframe.
 
 The next morning, we quickly set into our hiking legs, albeit a little rusty. It was July, and my first time hiking in early summer. The flowers were out (as were the bugs) and plentiful. We walked through fields of flowers, climbed passes, and took in the scenery. 
 
-We arrived at our campsite, a small beach, with a few hours left in the day. Little and I swam in the lake while Dad lake-chilled the wine. The lake was nearly freezing, so we hopped out. Little convinced me to climb a large, mosquito infested, talus field. We literally crawled, always maintaining three points of contact with the field. Below find Little sitting at the top, while I lagged behind, and the Minarets in the far distance.
-
-It was tough work, and a dumb idea, but the views were great. We could see the Minarets, Mammoth Mountain (See below, right corner) and even a chair lift at the top of the field. 
-
-We could of course also see the lake we swam in one hour prior, and Dad pacing around the beach.
+We arrived at our campsite, a small beach, with a few hours left in the day. Little and I swam in the lake while Dad lake-chilled the wine. The lake was nearly freezing, so we hopped out. Little convinced me to climb a large, mosquito infested, talus field. We literally crawled, always maintaining three points of contact with the field. Below find Little sitting at the top, while I lagged behind, and the Minarets in the far distance. It was tough work, and a dumb idea, but the views were great. We could see the Minarets, Mammoth Mountain and even a chair lift at the top of the field. 
 
 With effort and anxiety, we climbed down the talus field and ate our dinner of beef jerkey, trail mix, and Kooliad. Night set, it was a freezing 32 degrees, and we were once again sleeping without a tent. We could see a spiral of the milky way clearly. Dad slept like a baby but Little and I were shivering. The two of us shared a sleeping bag to keep warm and streamed Mean Girls II on my smartphone, which took our minds off of the bitter cold. We soon dozed to sleep.
 
-The next morning was rough as we were too cold to move. The sun started to slowly creep towards us, warming some of the granite boulders by our campsite last. Like lizards, Little and I sat on the rocks for added warmth until Dad persuaded us to clean up the site. ""The sooner we get moving, the sooner we'll warm up.""
+The next morning was rough as we were too cold to move. The sun started to slowly creep towards us, warming some of the granite boulders by our campsite last. Like lizards, Little and I sat on the rocks for added warmth until Dad persuaded us to clean up the site. "The sooner we get moving, the sooner we'll warm up."
 
 A few miles into the trail, Dad exclaimed he had accidentally left the celebratory wine chilling in the lake! Hopefully, someone finds it and enjoys that wine for us.
 
@@ -236,4 +226,4 @@ Like most working Americans, Dad did not get that much vacation time. What time 
 
 I am biased, my heart believes that my dad is the best one out there although logically I know this world is full of wonderful fathers. To all the fathers who believe in their sons and daughters, thank you. You make the world a better place. 
 
-###### For you, Dad, I am forever grateful.
+#### For you, Dad, I am forever grateful.
