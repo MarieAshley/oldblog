@@ -4,10 +4,10 @@ _Written while I was a Python and Algebra tutor in 2017_
 
 Recently a student asked if I could help her understand, step by step, the Gaussian Elimination with Partial Pivoting algorithm. 
 
-#### a partial pivot
+## a partial pivot
 Personally, this experience taught me that matrix operations themselves are not too bad on pen and paper. However, the matrix operations in Python are an indexing nightmare. 
 
-#### adventures with Gauss
+## adventures with Gauss
 The point of this blog article is to instill advice regarding matrices in Python to reduce stress, dyslexia and ultimately understand this algorithm. Here are the take home points we discussed: 
 
 1. Ignore the code and solve the matrix using Gaussian Elimination with Partial Pivoting by hand first. This helps us visualize how the algorithm will operate. I like the videos from numericalmethodsguy the best. See, [Gaussian Elimination with Partial Pivoting](https://www.youtube.com/watch?v=euIXYdyjlqo).
@@ -18,6 +18,7 @@ The point of this blog article is to instill advice regarding matrices in Python
 
 Here is a refactored and print() heavy sample we worked with:
 
+## the code
 ```python
 print("Guassian Elimination with Partial Pivot")
 #Tested Python 3
